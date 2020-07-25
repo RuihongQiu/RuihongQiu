@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ - 📢 07/2020 New blog post about [Mutual Information Neural Estimation](https://ruihongqiu.github.io/posts/2020/07/mine/).
+
 <!--
 **RuihongQiu/RuihongQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
