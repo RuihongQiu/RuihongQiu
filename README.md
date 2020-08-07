@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Welcome to my [📙](https://ruihongqiu.github.io/year-archive/) for the interesting paper analysis and learning notes.
+Welcome to my [blog post 📙](https://ruihongqiu.github.io/year-archive/) for the interesting paper analysis and learning notes.
 
-NEWS:
+NEW:
 
+- 📢 08/2020 New [📙](https://ruihongqiu.github.io/posts/2020/08/infonce/) about Contrastive Predictive Coding and InfoNCE.
 - 📢 07/2020 New [📙](https://ruihongqiu.github.io/posts/2020/07/mine/) about Mutual Information Neural Estimation.
 - 📢 07/2020 3MT [🎦](https://www.youtube.com/watch?v=zVEHeSwpHYo&t) for the Runner-up and the People Choice awards.
 
