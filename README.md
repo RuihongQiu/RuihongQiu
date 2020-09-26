@@ -4,6 +4,7 @@ Welcome to my [blog post 📙](https://ruihongqiu.github.io/year-archive/) for t
 
 NEW:
 
+- 📢 09/2020 New [📙](https://ruihongqiu.github.io/posts/2020/09/club/) about Contrastive Log-ratio Upper Bound of mutual information.
 - 📢 09/2020 New [📙](https://ruihongqiu.github.io/posts/2020/09/vbmi/) about Variational Bounds of Mutual Information.
 - 📢 08/2020 New [📙](https://ruihongqiu.github.io/posts/2020/08/infonce/) about Contrastive Predictive Coding and InfoNCE.
 - 📢 07/2020 New [📙](https://ruihongqiu.github.io/posts/2020/07/mine/) about Mutual Information Neural Estimation.
